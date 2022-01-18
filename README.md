@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there! 👋
 
-<!--
-**MartinRybergLaude/MartinRybergLaude** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Martin, a Frontend Developer based in Stockholm, Sweden 🇸🇪
 
-Here are some ideas to get you started:
+[Blog](https://mrlaude.com/blog) • [Work](https://mrlaude.com/work) • [About](https://mrlaude.com/about)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##### BIO
+* 📚 Studying Media Technology @ KTH
+* 💻 Working on all things frontend
+* ❤️ Open Source software
+
+##### CONTACT
+* [Email](mailto:martin.ryberg.laude@gmail.com)
+* [LinkedIn](https://www.linkedin.com/in/martinryberglaude/)
+* [Twitter](https://twitter.com/martini_rl)
