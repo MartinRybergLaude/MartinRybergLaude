@@ -1,15 +1,16 @@
-### Hi there! 👋
+### Greetings! 👋
 
-I'm Martin, a Frontend Developer based in Stockholm, Sweden 🇸🇪
+I'm Martin, a Frontend Developer based in Stockholm, Sweden.
 
-[Blog](https://mrlaude.com/blog) • [Work](https://mrlaude.com/work) • [About](https://mrlaude.com/about)
+* 📚 Studying for a M.Sc.Eng in Media Technology @ KTH
+* 💻 Development blog @ [mrlaude.com](https://mrlaude.com)
+* 🌤️ Working on [solsken.app](https://solsken.app)
 
-##### BIO
-* 📚 Studying Media Technology @ KTH
-* 💻 Working on all things frontend
-* ❤️ Open Source software
+##### LATEST POSTS
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ##### CONTACT
-* [Email](mailto:martin.ryberg.laude@gmail.com)
+* [Email](mailto:contact@mrlaude.com)
 * [LinkedIn](https://www.linkedin.com/in/martinryberglaude/)
-* [Twitter](https://twitter.com/martini_rl)
+* [Mastodon](https://mastodon.green/@mrlaude)
