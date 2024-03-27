@@ -1,8 +1,8 @@
 ### Greetings! 👋
 
-I'm Martin, a Frontend Developer based in Stockholm, Sweden.
+I'm Martin, a software developer based in Stockholm, Sweden.
 
-* 📚 Studying for a M.Sc.Eng in Media Technology @ KTH
+* 📚 Studying for a M.Sc.Eng in Media Technology and Master's in Computer Science @ KTH
 * 💻 Development blog @ [mrlaude.com](https://mrlaude.com)
 * 🌤️ Working on [solsken.app](https://solsken.app)
 
