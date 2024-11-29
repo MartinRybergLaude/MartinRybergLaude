@@ -4,7 +4,7 @@ I'm Martin, a software developer based in Stockholm, Sweden.
 
 * 📚 Studying for a M.Sc.Eng in Media Technology and Master's in Computer Science @ KTH
 * 💻 Development blog @ [mrlaude.com](https://mrlaude.com)
-* 🌤️ Working on [solsken.app](https://solsken.app)
+* 💼 Software Engineer @ [Atlar](https://www.atlar.com/company)
 
 ##### LATEST POSTS
 <!-- BLOG-POST-LIST:START -->
@@ -18,4 +18,5 @@ I'm Martin, a software developer based in Stockholm, Sweden.
 ##### CONTACT
 * [Email](mailto:contact@mrlaude.com)
 * [LinkedIn](https://www.linkedin.com/in/martinryberglaude/)
+* [Bluesky](https://bsky.app/profile/mrlaude.com)
 * [Mastodon](https://mastodon.green/@mrlaude)
