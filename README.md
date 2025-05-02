@@ -4,7 +4,7 @@ I'm Martin, a software developer based in Stockholm, Sweden.
 
 * 📚 Studying for a M.Sc.Eng in Media Technology and Master's in Computer Science @ KTH
 * 💻 Development blog @ [mrlaude.com](https://mrlaude.com)
-* 💼 Software Engineer @ [Atlar](https://www.atlar.com/company)
+* 💼 Founding Engineer @ [Ednia](https://ednia.se/)
 
 ##### LATEST POSTS
 <!-- BLOG-POST-LIST:START -->
