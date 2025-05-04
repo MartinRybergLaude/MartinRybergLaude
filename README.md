@@ -14,9 +14,3 @@ I'm Martin, a software developer based in Stockholm, Sweden.
 - [Deep linking in Tauri - an OAuth use case](https://example.com/articles/deep-linking-in-tauri-an-o-auth-use-case/)
 - [Rapid development of a real-time collaboration app](https://example.com/articles/rapid-development-of-a-real-time-collaboration-app/)
 <!-- BLOG-POST-LIST:END -->
-
-##### CONTACT
-* [Email](mailto:contact@mrlaude.com)
-* [LinkedIn](https://www.linkedin.com/in/martinryberglaude/)
-* [Bluesky](https://bsky.app/profile/mrlaude.com)
-* [Mastodon](https://mastodon.green/@mrlaude)
