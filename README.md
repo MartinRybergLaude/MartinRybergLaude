@@ -8,9 +8,9 @@ I'm Martin, a software developer based in Stockholm, Sweden.
 
 ##### LATEST POSTS
 <!-- BLOG-POST-LIST:START -->
+- [Thoughts on the Agent Client Protocol](https://mrlaude.com/articles/thoughts-on-acp/)
 - [Agentic workflow &lpar;aug. 2025&rpar;](https://mrlaude.com/articles/agentic-workflow-25-aug/)
 - [Full turbo — a monorepo overhaul](https://mrlaude.com/articles/full-turbo/)
 - [In search of the perfect browser](https://mrlaude.com/articles/in-search-of-the-perfect-browser/)
 - [My developer toolbox 2023](https://mrlaude.com/articles/my-developer-toolbox-2023/)
-- [Page prefetching and transitions in Astro](https://mrlaude.com/articles/page-prefetching-and-transitions-in-astro/)
 <!-- BLOG-POST-LIST:END -->
