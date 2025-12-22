@@ -8,9 +8,9 @@ I'm Martin, a software developer based in Stockholm, Sweden.
 
 ##### LATEST POSTS
 <!-- BLOG-POST-LIST:START -->
+- [The New Economics of Not Using Libraries](https://mrlaude.com/articles/opus-45-libraries/)
 - [GLM 4.6 with Claude Code](https://mrlaude.com/articles/glm-with-claude/)
 - [TX-02 Berkeley Mono](https://mrlaude.com/articles/tx-02/)
 - [Thoughts on the Agent Client Protocol](https://mrlaude.com/articles/thoughts-on-acp/)
 - [Agentic workflow &lpar;aug. 2025&rpar;](https://mrlaude.com/articles/agentic-workflow-25-aug/)
-- [Full turbo — a monorepo overhaul](https://mrlaude.com/articles/full-turbo/)
 <!-- BLOG-POST-LIST:END -->
