@@ -12,5 +12,5 @@ I'm Martin, a software engineer based in Stockholm, Sweden.
 - [GLM 4.6 with Claude Code](https://mrlaude.com/articles/glm-with-claude/)
 - [TX-02 Berkeley Mono](https://mrlaude.com/articles/tx-02/)
 - [Thoughts on the Agent Client Protocol](https://mrlaude.com/articles/thoughts-on-acp/)
-- [Agentic workflow &lpar;aug. 2025&rpar;](https://mrlaude.com/articles/agentic-workflow-25-aug/)
+- [Agentic Workflow &lpar;Aug. 2025&rpar;](https://mrlaude.com/articles/agentic-workflow-25-aug/)
 <!-- BLOG-POST-LIST:END -->
